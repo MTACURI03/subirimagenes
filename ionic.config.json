@@ -1,0 +1,7 @@
+{
+  "name": "file-upload-standalone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
