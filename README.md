@@ -20,3 +20,4 @@ REVISAR IMAGEN EN SUPABASE EN EL APARTADO DE BUCKET
 
 ¡MUCHAS GRACIAS¡
 
+<img width="337" height="189" alt="image" src="https://github.com/user-attachments/assets/04a68bf4-291f-4a87-adf0-e39754569181" />
